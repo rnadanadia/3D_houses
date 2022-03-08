@@ -1,5 +1,5 @@
 # Description
-The 3D project goal is to create a house model in 3D with only a home address using lidar file. The process begins by doing geotransform from .tif file then get the information of the longitude and latitude from the address using API keys. Followed by calculating CHM (Canopy Height Model) as Z value to plot 3D house. 
+The goal of 3D house project is to create a house model in 3D with only using a home address information. The process began by doing geotransform from .tif file and took the information of the longitude and latitude from the address using API keys. Later on we calculated CHM (Canopy Height Model) as Z value to plot 3D house. 
 
 # Installation
 1. Numpy
